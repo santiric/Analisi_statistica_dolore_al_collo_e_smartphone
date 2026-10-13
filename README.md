@@ -10,3 +10,5 @@ Il file fit.R contiene il codice per riprodurre i risultati ottenuti.
 
 In formato pdf è disponibile il questionario sottoposto ai rispondenti.
 
+Questo lavoro fa parte di una tesi di laurea triennale in Fisioterapia presso l'università di Padova, consultabile qui: 
+https://hdl.handle.net/20.500.12608/102926
